@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "mood.h": "c",
+        "tim.h": "c"
+    }
+}
